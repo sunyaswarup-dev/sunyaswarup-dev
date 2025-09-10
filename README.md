@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sunya Swarup Mishra  
+# 👋 Hi, I’m Sunya Swarup Mishra.
 
 💻 **Frontend Developer | AI Enthusiast | Problem Solver**  
 Passionate about building beautiful, responsive user interfaces and blending them with the power of **AI/ML tools** to create real-world impact.  
